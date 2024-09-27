@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    padding-top: 0px;
+    box-shadow: none;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed !important;
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+.fonte-grande{
+    font-size: 55px;
+}
+
+.claro{
+    background-color: rgb(240, 240, 240);
+}
+
+
+
+.escuro{
+    background-color: rgb(212, 212, 212);
+}
+
+.redes-socias{
+    background: linear-gradient(#66EAB4, #41C5D8, #24A8F4);
+    color: white;
+    border-radius: 15px;
+    padding: 12px 14px 12px 14px;
+}
+
+.branco{
+    color: white;
+}
+
+
+
+.redes-socias-hover:hover{
+    color: rgb(255, 255, 255);
+    background: rgb(36, 168, 244);
+    box-shadow: none;
+}
+
+
+
+.botao-tema-hover:hover{
+    color: rgb(255, 255, 255);
+    background: rgb(103, 235, 179);
+    box-shadow: rgba(36, 168, 244, 0.5) 0px 2px 6px 0px;
+}
+
+.botao-tema{
+    background: linear-gradient(#66EAB4, #41C5D8, #24A8F4);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    box-shadow: rgba(36, 168, 244, 0.5) 0px 2px 6px;
+}
+
+.banner-2{
+    background: linear-gradient(rgba(39, 66, 120, 0.22), rgba(39, 66, 120, 0.22)), url(https://hosting.renderforestsites.com/images/5699226/257/58b0c1ba29ec819ada4ca22f28cec679.jpg) center center / cover no-repeat;
+
+}
+
+.link-hover:hover{
+    opacity: 0.6;
+}
+
+#whatsapp{
+    color: white;
+    background: #25D366;
+    border-radius: 70px;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    padding: 8px 15px 8px 15px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 12px;
+}
+
+#parcerias{
+    background: rgba(247, 247, 247, 0.99);
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
